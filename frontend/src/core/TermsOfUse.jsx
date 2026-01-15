@@ -52,5 +52,5 @@ const TermsOfUse = () => {
         </Layout>
     );
 };
-
+//terms of use done
 export default TermsOfUse;
