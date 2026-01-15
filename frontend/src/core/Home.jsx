@@ -267,6 +267,7 @@ const Home = () => {
                 component={Link}
                 to='/shop'
               >
+                
                 Browse Man
               </StyledButton>
             </Box>
@@ -321,5 +322,5 @@ const Home = () => {
     </Layout>
   );
 };
-
+//nowd done
 export default Home;
